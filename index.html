@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Table of Contents">
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <!-- <meta property="og:url" content="https://themes.gohugo.io//theme/hugo-book/docs/example/table-of-contents/" /> -->
+
+    <title>PYTH3</title>
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles/book.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/monokai-sublime.min.css">
+
+    <link rel="stylesheet" href="styles/hl.css">
+
+
+</head>
+
+<body>
+    <input type="checkbox" class="hidden" id="menu-control" />
+    <main class="flex container">
+
+        <aside class="book-menu fixed">
+            <nav>
+                <h2 class="book-brand">
+                    <a href="./"><span>PYTH3</span></a>
+                </h2>
+
+                <ul>
+
+                    <li class="book-section-flat js-links">
+
+                        <!-- <a href="https://themes.gohugo.io//theme/hugo-book/docs/example/">Example Site</a> -->
+
+                       <!--  <ul class="js-links">
+                        </ul> -->
+
+                    </li>
+                </ul>
+            </nav>
+
+            <script>
+                (function() {
+                    var menu = document.querySelector("aside.book-menu nav");
+                    addEventListener("beforeunload", function(event) {
+                        localStorage.setItem("menu.scrollTop", menu.scrollTop);
+                    });
+                    menu.scrollTop = localStorage.getItem("menu.scrollTop");
+                })();
+            </script>
+
+        </aside>
+
+        <div class="book-page">
+            <header class="flex align-center justify-between book-header">
+                <label for="menu-control">
+                    <img src="https://themes.gohugo.io//theme/hugo-book/svg/menu.svg" alt="Menu" />
+                </label>
+                <strong>Table of Contents</strong>
+            </header>
+
+            <article class="js-content">
+                <h1>Loading...</h1>
+            </article>
+        </div>
+
+        <aside class="book-toc levels-3 fixed">
+            <nav id="TableOfContents">
+                <ul class="js-sidebar">
+                </ul>
+            </nav>
+        </aside>
+
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highlightjs-line-numbers.js@2.7.0/dist/highlightjs-line-numbers.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.7.0/marked.min.js"></script>
+    <script src="js/notebook.js"></script>
+    <script src="js/main.js"></script>
+</body>
+    <!-- https://github.com/alex-shpak/hugo-book -- thanks! -->
+</html>
