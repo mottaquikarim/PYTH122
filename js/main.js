@@ -31,7 +31,11 @@ contentDom.addEventListener('click', e => {
         if (e.target.getAttribute('href').indexOf('#') == 0) return;
         if (e.target.getAttribute('href').indexOf('https://colab.research.google.com/github/mottaquikarim/pycontent') !== -1) {
             let href = e.target.getAttribute('href')
-            e.target.setAttribute('href', href.replace('mottaquikarim/pycontent', 'mottaquikarim/PYTH122'))
+            e.target
+                .setAttribute(
+                    'href',
+                    href.replace('mottaquikarim/pycontent', 'mottaquikarim/PYTH122').replace('.out', 'out')
+                )
         }
 		e.preventDefault();
 		window.open(e.target.getAttribute('href'))
