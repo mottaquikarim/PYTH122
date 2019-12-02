@@ -27,16 +27,17 @@ get_file(`meta.json`).then(content => {
 })
 
 contentDom.addEventListener('click', e => {
+    if (e.target.matches('img')) {
+        const anch = e.target.parentNode;
+        if (anch.getAttribute('href').indexOf('https://colab.research.google.com/github/mottaquikarim/pycontent') !== -1) {
+            e.preventDefault();
+            let href = anch.getAttribute('href')
+            window.open(href.replace('mottaquikarim/pycontent', 'mottaquikarim/PYTH122').replace('.out', 'out'))
+            return;
+        }
+    }
 	if (e.target.matches('a')) {
         if (e.target.getAttribute('href').indexOf('#') == 0) return;
-        if (e.target.getAttribute('href').indexOf('https://colab.research.google.com/github/mottaquikarim/pycontent') !== -1) {
-            let href = e.target.getAttribute('href')
-            e.target
-                .setAttribute(
-                    'href',
-                    href.replace('mottaquikarim/pycontent', 'mottaquikarim/PYTH122').replace('.out', 'out')
-                )
-        }
 		e.preventDefault();
 		window.open(e.target.getAttribute('href'))
 		return;
