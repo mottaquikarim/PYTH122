@@ -1,9 +1,17 @@
-# Class Info
+# PYTHON PROGRAMMING
+🎉🎈🎂🍾🎊🍻💃
+*A hands on and practical introduction to programming and python development.*
 
+## [Online Classroom](https://pyth122.slack.com/) 👩‍💻👨‍💻
+Slack is our online classroom - we will share class notes, videos, lectures, etc here. **ACCESS SLACK** on the link on your top right! ➡️ 
 
-## 🎉 [Introductory Slides](https://mottaquikarim.github.io/rehearsal/public/stage.html?source=o66ry#/)
+## Lectures
 
-This will be one of the only two slide decks we ever get through in class. Refer to this resource to set expectations about class in general on a high level.
+| Lecture #  | Date | Links |
+| ------------- | ------------- | ------------- |
+| 1  | December 2nd  | 🎉[Intro Deck](https://mottaquikarim.github.io/rehearsal/public/stage.html?source=o66ry#/), [Tools](#out/intro/tools) |
+| 2  | **December 9th**  | [Essential Terminology](#out/topics/essential_terminology) |
+
 
 ## Practice Problem Source Files
 
