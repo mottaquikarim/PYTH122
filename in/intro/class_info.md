@@ -11,6 +11,14 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | ------------- | ------------- | ------------- |
 | 1  | December 2nd  | 🎉[Intro Deck](https://mottaquikarim.github.io/rehearsal/public/stage.html?source=o66ry#/), [Tools](#out/intro/tools) |
 | 2  | **December 9th**  | [Essential Terminology](#out/topics/essential_terminology) |
+| 3  | December 11th  | [Basic Data Types](#out/topics/basic_data_types) |
+| 4  | December 16th  | [Conditionals](#out/topics/conditionals) |
+| 5  | December 18th  | [Lists](#out/topics/lists) |
+| -  | **December 23rd**  | **HOLIDAY** |
+| -  | **December 25th**  | **HOLIDAY** |
+| -  | **December 30th**  | **HOLIDAY** |
+| -  | **January 1st, 2020**  | **HOLIDAY** |
+| 6  | January 6th  | [Dicts](#out/topics/dicts)|
 
 
 ## Practice Problem Source Files

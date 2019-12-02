@@ -28,6 +28,7 @@ get_file(`meta.json`).then(content => {
 
 contentDom.addEventListener('click', e => {
 	if (e.target.matches('a')) {
+        if (e.target.getAttribute('href').indexOf('#') == 0) return;
 		e.preventDefault();
 		window.open(e.target.getAttribute('href'))
 		return;
