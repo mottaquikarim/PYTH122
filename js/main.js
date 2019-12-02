@@ -1,6 +1,9 @@
 const OUTPUT_FILE = "out"
 const MANIFEST = `${OUTPUT_FILE}/manifest.json`
 
+const INPUT_FILE = "in"
+const MANIFEST_IN = `${INPUT_FILE}/manifest.json`
+
 const get_file = src => new Promise((resolve, reject) => {
 	const xhr = new XMLHttpRequest()
 	xhr.open('GET', src)
@@ -33,18 +36,35 @@ contentDom.addEventListener('click', e => {
 
 window.onhashchange = e => {
 	href = location.hash.slice(1)
-	get_file(`${href}.ipynb`)
-		.then(content => {
+    let file = null;
+    let is_md = false;
+    console.log(href)
+    if (href.indexOf(`${INPUT_FILE}/`) !== -1) {
+        file = get_file(`${href}.md`);
+        is_md = true;
+    }
+    else {
+        file = get_file(`${href}.ipynb`)
+    }
 
-			const data = JSON.parse(content.target.response)
-			console.log(data)
-			var notebook = nb.parse(data);
-			var rendered = notebook.render();
-			console.log(rendered)
+    file
+        .then(content => {
 			while (contentDom.hasChildNodes()) {
 				contentDom.removeChild(contentDom.lastChild);
 			}
-			contentDom.appendChild(rendered);
+
+            let rendered = null;
+            if (is_md) {
+                rendered = content.target.response;
+                contentDom.innerHTML = marked(rendered);
+            }
+            else {
+                const data = JSON.parse(content.target.response)
+                const notebook = nb.parse(data);
+                rendered = notebook.render();
+			    contentDom.appendChild(rendered);
+            }
+
 			document.querySelectorAll('pre code').forEach((block) => {
 				block.className = ""
 				block.removeAttribute('data-language')
@@ -53,7 +73,7 @@ window.onhashchange = e => {
 			    hljs.highlightBlock(block);
 			    hljs.lineNumbersBlock(block);
 			  });
-		})
+        })
 }
 links.addEventListener('click', e => {
 	e.preventDefault();
@@ -72,6 +92,52 @@ links.addEventListener('click', e => {
 	
 })
 
+const all_files = Promise.all([get_file(MANIFEST), get_file(MANIFEST_IN)])
+
+all_files
+    .then(([manifest, manifest_in]) => {
+        const out_content = JSON.parse(manifest.target.response)
+        const in_content = JSON.parse(manifest_in.target.response)
+        return [out_content, in_content]
+    })
+    .then(([out_, in_]) => {
+		const {files} = out_ ;
+		let i = 0
+		files.forEach(file => {
+			console.log(file)
+			const keys = Object.keys(file)
+			const title = keys[0]
+			console.log(title, file[title])
+			const links_txt = file[title].map(link => {
+                const key = Object.keys(link)
+                const val = link[key]
+                let path = `${OUTPUT_FILE}${key}`
+                if (in_[key]) {
+                    path = `${INPUT_FILE}${key}`
+                }
+                let isactive = ''
+                if (i == 0) {
+                	++i
+                	window.location.hash = "";
+                	window.location.hash = path ;
+                	isactive = ' active';
+                }
+				return `<li><a class="link js-link ${isactive}" href="${path}"">${val}</a></li>`
+			})
+			links.innerHTML += `<li class="book-section-flat">
+				<a>${title.toUpperCase()}</a>
+				<ul>
+					<li>
+						<ul>
+							${links_txt.join('\n')}
+						</ul>
+					</li>
+				</ul>
+			</li>`
+		})
+    })
+
+/*
 get_file(MANIFEST)
 	.then(e => {
 		const {files} = JSON.parse(e.target.response)
@@ -107,3 +173,4 @@ get_file(MANIFEST)
 		})
 		
 	})
+*/
