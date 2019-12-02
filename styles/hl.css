@@ -25,3 +25,9 @@
 .hljs-ln td {
 	padding: initial;
 }
+
+td, th {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
