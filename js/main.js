@@ -19,7 +19,7 @@ get_file(`meta.json`).then(content => {
 	const data = JSON.parse(content.target.response)
 	data.links.forEach(link => {
 		sidebar.innerHTML += `<li>
-			<a href="${link.url}">
+			<a href="${link.url}" target="_blank">
 				${link.name}
 			</a>
 		</li>`
