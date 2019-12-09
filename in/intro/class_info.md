@@ -9,21 +9,21 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 
 | Lecture #  | Date | Links |
 | ------------- | ------------- | ------------- |
-| 1  | December 2nd  | 🎉[Intro Deck](https://mottaquikarim.github.io/rehearsal/public/stage.html?source=o66ry#/), [Tools](#out/intro/tools) |
-| 2  | **December 9th**  | [Essential Terminology](#out/topics/essential_terminology) |
-| 3  | December 11th  | [Basic Data Types](#out/topics/basic_data_types), [Modules](#out/topics/modules) |
-| 4  | December 16th  | [Conditionals](#out/topics/conditionals) |
-| 5  | December 18th  | [Lists](#out/topics/lists) |
+| 1  | December 2nd  | 🎉[Intro Deck](https://mottaquikarim.github.io/rehearsal/public/stage.html?source=o66ry#/), [Tools](#out/intro/tools), [Essential Terminology](#out/topics/essential_terminology) |
+| 2  | **December 9th**  | [Basic Data Types](#out/topics/basic_data_types), [Modules](#out/topics/modules) |
+| 3  | December 11th  | [Conditionals](#out/topics/conditionals) |
+| 4  | December 16th  | [Lists](#out/topics/lists) |
+| 5  | December 18th  | [Dicts](#out/topics/dicts) |
 | -  | **December 23rd**  | **HOLIDAY** |
 | -  | **December 25th**  | **HOLIDAY** |
 | -  | **December 30th**  | **HOLIDAY** |
 | -  | **January 1st, 2020**  | **HOLIDAY** |
-| 6  | January 6th  | [Dicts](#out/topics/dicts)|
-| 7  | January 8th  | [Loops](#out/topics/loops)|
-| 8  | January 13th  | [Functions](#out/topics/functions)|
-| 9  | January 15th  | [Classes](#out/topics/classes)|
+| 6  | January 6th  | [Loops](#out/topics/loops) |
+| 7  | January 8th  | [Functions](#out/topics/functions) |
+| 8  | January 13th  | [Classes](#out/topics/classes) |
+| 9  | January 15th  | [Classes 2](#out/topics/classes) |
 | -  | **January 20th**  | **HOLIDAY** |
-| 10  | January 22nd  | [Classes 2](#out/topics/classes) |
+| 10  | January 22nd  |  *TBD* |
 | -  | **February 17th**  | **HOLIDAY** |
 
 
