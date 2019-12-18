@@ -13,5 +13,4 @@
 
 * Finish the problems in your copy of the lists_psets.ipynb
  * Challenge problems are optional, but we encourage you to take a stab!
-* Complete the "Basics" section in your copy of loops_psets.ipynb
 
