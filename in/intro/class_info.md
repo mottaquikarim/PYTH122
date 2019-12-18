@@ -13,12 +13,12 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 2  | **December 9th**  | [Basic Data Types](#out/topics/basic_data_types), [Modules](#out/topics/modules) |
 | 3  | December 11th  | [Conditionals](#out/topics/conditionals) |
 | 4  | December 16th  | [Lists](#out/topics/lists) |
-| 5  | December 18th  | [Dicts](#out/topics/dicts) |
+| 5  | December 18th  | [Lists](#out/topics/lists), [Dicts](#out/topics/dicts) |
 | -  | **December 23rd**  | **HOLIDAY** |
 | -  | **December 25th**  | **HOLIDAY** |
 | -  | **December 30th**  | **HOLIDAY** |
 | -  | **January 1st, 2020**  | **HOLIDAY** |
-| 6  | January 6th  | [Loops](#out/topics/loops) |
+| 6  | January 6th  | REVIEW!, [Loops](#out/topics/loops) |
 | 7  | January 8th  | [Functions](#out/topics/functions) |
 | 8  | January 13th  | [Classes](#out/topics/classes) |
 | 9  | January 15th  | [Classes 2](#out/topics/classes) |
