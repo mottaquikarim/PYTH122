@@ -9,8 +9,10 @@
 * Finish the problems in your copy of the conditionals_psets.ipynb
   * P4 & P5 in the Logic section are bonus challenges
   
-### HW2 - Due 1/6/2020, Midnight *TENTATIVE!*
+### HW2 - Due 1/6/2020, Midnight
 
-* Finish the problems in your copy of the lists_psets.ipynb
+* Finish the problems in your copies of lists_psets.ipynb & dict_psets.ipynb
  * Challenge problems are optional, but we encourage you to take a stab!
+* Optional holiday break bonus assignment: *to be posted 12/20*
+
 
