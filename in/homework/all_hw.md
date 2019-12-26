@@ -13,6 +13,10 @@
 
 * Finish the problems in your copies of lists_psets.ipynb & dict_psets.ipynb
  * Challenge problems are optional, but we encourage you to take a stab!
-* Optional holiday break bonus assignment: *to be posted 12/20*
+* Optional holiday break bonus assignment: 
+ * Make a copy of [this notebook](https://colab.research.google.com/drive/1-XFtJT8o8LIHwma_JtrKquk-AO6wDxty)
+ * Append your name to the file name when you save it (i.e. holiday_bonus_project_<YourName>.ipynb)
+ * Add it into your PYTH122 folder
+ * Let us know when you finish!
 
 
