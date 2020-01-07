@@ -19,4 +19,9 @@
  * Add it into your PYTH122 folder
  * Let us know when you finish!
 
+### HW3 - Due 1/13/2020, Midnight
+
+* Finish the problems in your copy of loop_psets.ipynb
+ * Challenge problems are optional, but we encourage you to take a stab!
+* _**TENTATIVE!!!**_ We might add some of the basic problems from functions_pset.ipynb, pending progress in class on Wed 1/8.
 
