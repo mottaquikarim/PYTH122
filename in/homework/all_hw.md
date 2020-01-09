@@ -23,5 +23,5 @@
 
 * Finish the problems in your copy of loop_psets.ipynb
  * Challenge problems are optional, but we encourage you to take a stab!
-* _**TENTATIVE!!!**_ We might add some of the basic problems from functions_pset.ipynb, pending progress in class on Wed 1/8.
+* Finish the Basic Function Ops section in your copy of functions_psets.ipynb.
 
