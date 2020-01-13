@@ -20,10 +20,10 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | -  | **January 1st, 2020**  | **HOLIDAY** |
 | 6  | January 6th  | REVIEW!, [Loops](#out/topics/loops) |
 | 7  | January 8th  | [Functions](#out/topics/functions) |
-| 8  | January 13th  | [Classes](#out/topics/classes) |
+| 8  | January 13th  | [Functions](#out/topics/functions), [Classes 1](#out/topics/classes) |
 | 9  | January 15th  | [Classes 2](#out/topics/classes) |
 | -  | **January 20th**  | **HOLIDAY** |
-| 10  | January 22nd  |  *TBD* |
+| 10  | January 22nd  | *TBD* |
 | -  | **February 17th**  | **HOLIDAY** |
 
 
