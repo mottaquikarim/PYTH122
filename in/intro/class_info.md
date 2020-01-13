@@ -23,9 +23,8 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 8  | January 13th  | [Functions](#out/topics/functions), [Classes 1](#out/topics/classes) |
 | 9  | January 15th  | [Classes 2](#out/topics/classes) |
 | -  | **January 20th**  | **HOLIDAY** |
-| 10  | January 22nd  | *TBD* |
+| 10  | January 22nd  | [Foundational Pandas Object](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | -  | **February 17th**  | **HOLIDAY** |
-
 
 ## Practice Problem Access
 
