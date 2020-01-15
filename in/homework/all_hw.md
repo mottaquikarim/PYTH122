@@ -25,12 +25,16 @@
  * Challenge problems are optional, but we encourage you to take a stab!
 * Finish the Basic Function Ops section in your copy of functions_psets.ipynb.
 
-### HW4 - Due 1/22/2020, Midnight
+### HW4 - Due 1/27/2020, Midnight
 
 * Finish the problems in your copy of functions_psets.ipynb.
 * Finish the problems in your copy of classes_psets.ipynb, *optional*
+
+### HW5 - Due 1/29/2020, Midnight
+
 * Read [Principles of Data_Science](#out/content/data_science)
 
-### HW5 - Due 1/27/2020, Midnight
+### HW6 - Due 2/3/2020, Midnight
 
-* Finish the problems in your copy of taqueria_pset1.ipynb. **TENTATIVE**
+* Finish the problems in your copy of taqueria_pset1.ipynb. 
+* **TENTATIVE** Submit a short proposal for your final project. (details to come!)
