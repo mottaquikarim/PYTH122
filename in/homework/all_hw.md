@@ -30,11 +30,15 @@
 * Finish the problems in your copy of functions_psets.ipynb.
 * Finish the problems in your copy of classes_psets.ipynb, *optional*
 
-### HW5 - Due 1/27/2020, Midnight
+### HW5 - Due 1/27/2020, 6:30 PM
 
-* Read [Principles of Data_Science](#out/content/data_science)
+* Read [Principles of Data_Science](#out/topics/data_science)
 
-### HW6 - Due 2/3/2020, Midnight
+### HW6 - Due 1/29/2020, 6:30 PM
+
+* Read [How Data Flows through DataFrames](#out/topics/df_data_flow)
+
+### HW7 - Due 2/3/2020, Midnight
 
 * Finish the problems in your copy of taqueria_pset1.ipynb. 
 * **TENTATIVE** Submit a short proposal for your final project. (details to come!)
