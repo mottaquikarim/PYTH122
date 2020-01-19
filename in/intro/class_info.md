@@ -25,16 +25,15 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | -  | **January 20th**  | **HOLIDAY** |
 | 10  | January 22nd  | Build Pandas from Scratch Together! |
 | 11  | January 27th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
-| 12  | January 29th | *TBD* |
-| 13  | February 3rd | *TBD* |
-| 14  | February 5th | *TBD* |
-| 15  | February 10th | *TBD* |
-| 16  | February 12th | *TBD* |
+| 12  | January 29th | Final project intro, Data Wrangling |
+| 13  | February 3rd | Data Cleaning |
+| 14  | February 5th | Titanic Lab I |
+| 15  | February 10th | EDA (Exploratory Data Analysis) |
+| 16  | February 12th | Data Visualizations |
 | -  | **February 17th**  | **HOLIDAY** |
-| 17  | February   | *TBD* |
-| 18  | February   | *TBD* |
-| 19  | February   | *TBD* |
-| 20  | February   | **Final presentations!** |
+| 17  | February 19th | Titanic Lab II |
+| 18  | February 24th | *Student choice* |
+| 19  | February 26th | **Final presentations!** |
 
 ## Practice Problem Access
 
