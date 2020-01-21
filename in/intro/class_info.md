@@ -23,7 +23,7 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 8  | January 13th  | [Functions](#out/topics/functions), [Classes 1](#out/topics/classes) |
 | 9  | January 15th  | [Classes 2](#out/topics/classes) |
 | -  | **January 20th**  | **HOLIDAY** |
-| 10  | January 22nd  | Build Pandas from Scratch Together! |
+| 10  | January 22nd  | [Build Pandas from Scratch Together!](https://colab.research.google.com/drive/1gU5_KvdqLMhzRpF7BRA9N36FlDgxnqQk) |
 | 11  | January 27th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | 12  | January 29th | Final project intro, Data Wrangling |
 | 13  | February 3rd | Data Cleaning |
