@@ -26,7 +26,7 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 10  | January 22nd  | [Build Pandas from Scratch Together!](https://colab.research.google.com/drive/1gU5_KvdqLMhzRpF7BRA9N36FlDgxnqQk) |
 | 11  | January 27th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | 12  | January 29th | Final project intro, [Data Wrangling](#out/topics/wrangling1) |
-| 13  | February 3rd | Data Cleaning |
+| 13  | February 3rd | [Data Cleaning](#out/topics/data_cleaning) |
 | 14  | February 5th | Titanic Lab I |
 | 15  | February 10th | EDA (Exploratory Data Analysis) |
 | 16  | February 12th | Data Visualizations |
