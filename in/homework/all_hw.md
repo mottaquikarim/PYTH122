@@ -32,7 +32,7 @@
 
 ### HW5 - Due 1/27/2020, 6:30 PM
 
-* Read [Principles of Data_Science](#out/topics/data_science)
+* Read [Principles of Data Science](#out/topics/data_science)
 
 ### HW6 - Due 1/29/2020, 6:30 PM
 
