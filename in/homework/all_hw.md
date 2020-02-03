@@ -41,4 +41,7 @@
 ### HW7 - Due 2/3/2020, Midnight
 
 * Finish the problems in your copy of taqueria_pset1.ipynb. 
-* **TENTATIVE** Submit a short proposal for your final project. (details to come!)
+* **TENTATIVE** Submit a short proposal for your final project.
+### HW8 - Due 2/10/2020, Midnight
+
+* Finish the problems in your copy of wrangling_pset.ipynb
