@@ -27,7 +27,7 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 11  | January 27th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | 12  | January 29th | [Final project intro](#out/intro/project_info), [Data Wrangling](#out/topics/wrangling1) |
 | 13  | February 3rd | [Data Cleaning](#out/topics/data_cleaning) |
-| 14  | February 5th | [Surface Temperature Wrangling PSET](https://drive.google.com/open?id=1z2ggdxzdH2qZ4MQk9s1phI0cJGjVZjFF), [EDA (Exploratory Data Analysis)](#out/topics/eda) |
+| 14  | February 5th | [wrangling_pset](https://drive.google.com/open?id=1z2ggdxzdH2qZ4MQk9s1phI0cJGjVZjFF), [EDA (Exploratory Data Analysis)](#out/topics/eda) |
 | 15  | February 10th | [Titanic Lab I]() |
 | 16  | February 12th | [Data Visualizations]() |
 | -  | **February 17th**  | **HOLIDAY** |
