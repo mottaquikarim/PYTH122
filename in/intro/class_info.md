@@ -31,8 +31,8 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 15  | February 10th | [Titanic Lab](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51) |
 | 16  | February 12th | [Data Visualizations]() |
 | -  | **February 17th**  | **HOLIDAY** |
-| 17  | February 19th | *TBA* |
-| 18  | February 24th | *Student choice* |
+| 17  | February 19th | Python Scripting I |
+| 18  | February 24th | Python Scripting II |
 | 19  | February 26th | **Final presentations!** |
 
 ## Practice Problem Access
