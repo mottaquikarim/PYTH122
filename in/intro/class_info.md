@@ -28,7 +28,7 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 12  | January 29th | [Final project intro](#out/intro/project_info), [Data Wrangling](#out/topics/wrangling1) |
 | 13  | February 3rd | [Data Cleaning](#out/topics/data_cleaning) |
 | 14  | February 5th | [wrangling_pset](https://drive.google.com/open?id=1z2ggdxzdH2qZ4MQk9s1phI0cJGjVZjFF), [EDA (Exploratory Data Analysis)](#out/topics/eda) |
-| 15  | February 10th | [Titanic Lab I]() |
+| 15  | February 10th | [Titanic Lab](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51) |
 | 16  | February 12th | [Data Visualizations]() |
 | -  | **February 17th**  | **HOLIDAY** |
 | 17  | February 19th | *TBA* |
