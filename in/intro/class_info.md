@@ -29,9 +29,9 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 13  | February 3rd | [Data Cleaning](#out/topics/data_cleaning) |
 | 14  | February 5th | [wrangling_pset](https://drive.google.com/open?id=1z2ggdxzdH2qZ4MQk9s1phI0cJGjVZjFF), [EDA (Exploratory Data Analysis)](#out/topics/eda) |
 | 15  | February 10th | [Titanic Lab Parts 1 & 2](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51) |
-| 16  | February 12th | [Titanic Lab Parts 2 & 3](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51), Open Questions on Data Wrangling/Analysis |
+| 16  | February 12th | [Titanic Lab Parts 2 & 3](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51), Open Questions on Data Wrangling/Analysis, [Data Visualizations](https://colab.research.google.com/drive/1gu3ZSIdx_Ei09tTc1XS-URdbOnbKMr3I), [IMDB Analysis](https://colab.research.google.com/drive/1r4kTnLSbumcRE829WhIz5fb99k1TZnkG) |
 | -  | **February 17th**  | **HOLIDAY** |
-| 17  | February 19th |[Data Visualizations]() |
+| 17  | February 19th | [Terminal Commands Deep Dive](https://show.zohopublic.com/publish/ivvjw880a8176a10d44ecbc4638c07bc180db) (Lecture from my grad class) |
 | 18  | February 24th | Python Scripting |
 | 19  | February 26th | **Final presentations!** |
 
