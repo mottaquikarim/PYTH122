@@ -32,7 +32,7 @@ Slack is our online classroom - we will share class notes, videos, lectures, etc
 | 16  | February 12th | [Titanic Lab Parts 2 & 3](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51), Open Questions on Data Wrangling/Analysis, [Data Visualizations](https://colab.research.google.com/drive/1gu3ZSIdx_Ei09tTc1XS-URdbOnbKMr3I), [IMDB Analysis](https://colab.research.google.com/drive/1r4kTnLSbumcRE829WhIz5fb99k1TZnkG) |
 | -  | **February 17th**  | **HOLIDAY** |
 | 17  | February 19th | [Terminal Commands Deep Dive](https://show.zohopublic.com/publish/jjd2u23f766e888414dcaac530e14258b978a) (Lecture from my grad class) |
-| 18  | February 24th | Github Overview, Basics of Beautiful Soup, Final Projects |
+| 18  | February 24th | Github Overview, [Basics of Beautiful Soup](https://colab.research.google.com/drive/1rUrUfczWHFlbrznCxdQbUfYOg6XaW1gd?authuser=1#scrollTo=JdNtkHltryfQ), Final Projects |
 | 19  | February 26th | **Final presentations!** |
 
 ## Practice Problem Access
